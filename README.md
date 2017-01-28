@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
@@ -24,6 +23,3 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
-=======
-# react-weather
->>>>>>> 87b3edf65a598f9186974786f78bd0d06d890200
